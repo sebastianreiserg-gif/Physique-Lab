@@ -1,6 +1,6 @@
 {
   "name": "Physique Lab",
-  "short_name": "PhysiqueLab",
+  "short_name": "Physique Lab",
   "description": "Body composition, genetic muscular potential, and macro planning — measurement-driven, no guesswork.",
   "start_url": "./index.html",
   "scope": "./",
