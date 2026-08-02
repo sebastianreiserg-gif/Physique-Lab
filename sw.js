@@ -1,4 +1,4 @@
-const CACHE_NAME = 'physique-lab-v19';
+const CACHE_NAME = 'physique-lab';
 const ASSETS = [
   './',
   './index.html',
